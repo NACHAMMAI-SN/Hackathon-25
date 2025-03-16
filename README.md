@@ -64,3 +64,10 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
 1. **Clone the repository**:  
    ```bash
    git clone <repository-url>
+2. **Install dependencies:**:
+   pip install -r requirements.txt
+3. **Run the app:**:
+   streamlit run app.py
+3. **Open the web interface in your browser and interact with the deployed solution:**:
+   
+
