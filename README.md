@@ -19,7 +19,7 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
   - Identify stationarity using the Augmented Dickey-Fuller test.  
   - Analyze patterns using heatmaps and autocorrelation.  
 - **Model Building**:  
-  - Train ARIMA, SARIMA, Random Forest, or XGBoost models.   
+  - Train ARIMA and XGBoost models.   
 - **Model Evaluation**:  
   - Evaluate models using MAE, RMSE, and MAPE metrics.  
   - Generate confidence intervals and provide insights.  
@@ -29,7 +29,7 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
 
 ### Workflow  
 #### **Milestone 1: Data Retrieval**  
-- Fetch data from a REST API.  
+- Fetch data from a REST API using API key.  
 - Handle authentication, rate limits, and errors.  
 
 #### **Milestone 2: Data Cleaning & Preprocessing**  
@@ -67,6 +67,6 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
    pip install -r requirements.txt
 3. **Run the app:**:
    streamlit run app.py
-3. **Open the web interface in your browser and interact with the deployed solution:**:
+3. **Open the web interface in your browser and interact with the deployed solution:**
    
 
