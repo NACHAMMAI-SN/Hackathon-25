@@ -67,6 +67,7 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
    pip install -r requirements.txt
 3. **Run the app:**:
    streamlit run app.py
+   Link : https://hackathon-25-zv14fu41um.streamlit.app/
 3. **Open the web interface in your browser and interact with the deployed solution:**
    
 
