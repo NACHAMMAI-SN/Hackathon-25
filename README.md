@@ -19,8 +19,7 @@ Time-series forecasting plays a vital role in domains such as finance, weather, 
   - Identify stationarity using the Augmented Dickey-Fuller test.  
   - Analyze patterns using heatmaps and autocorrelation.  
 - **Model Building**:  
-  - Train ARIMA, SARIMA, Random Forest, or XGBoost models.  
-  - *(Optional)* Implement LSTM or GRU for deep learning-based forecasting.  
+  - Train ARIMA, SARIMA, Random Forest, or XGBoost models.   
 - **Model Evaluation**:  
   - Evaluate models using MAE, RMSE, and MAPE metrics.  
   - Generate confidence intervals and provide insights.  
